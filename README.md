@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi There, We are Griffin👋<h1>
+<h1 align = "center"> Hi There, We are Eight👋<h1>
   <img align="right" height="350" width="350" alt="" src="https://cdn.discordapp.com/attachments/800338613145305100/990664508739575818/griffin_logo.png">
   <h2> About us </h2>
   - We thought that programing is easier! <br>
@@ -39,4 +39,4 @@
 <h2 align = "center">⚙️ Download </h2> <br>
 
 1. You can download our project by pressing the green "Code" button. <br>
-2. You can put this link: https://github.com/codingburgas/2122-the-games--adventures-eight-final-project.git in CMD. 
+2. You can put this code in CMD: git clone https://github.com/codingburgas/2122-the-games--adventures-eight-final-project.git
