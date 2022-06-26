@@ -36,3 +36,7 @@
 <p>Todor Atanasov - TYAtanasov21@codingburgas.bg👨🏻‍💻</p> <br>
 
 <br>
+<h2 align = "center">⚙️ Download </h2> <br>
+
+1. You can download our project by pressing the green "Code" button. <br>
+2. You can put this link: https://github.com/codingburgas/2122-the-games--adventures-eight-final-project.git in CMD. 
