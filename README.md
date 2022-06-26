@@ -17,3 +17,22 @@
 <code><img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
   <code><img  alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"</code>
+  
+<h2 align="center">💻Our Team💻</a></h2>
+<p>Rosen  Papazov - RMPapazov19@codingburgas.bg‍👨🏻‍💻‍</p> <br>
+
+<p>Trani Tranev - TSTranev20@codingburgas.bg‍👨🏻‍💻</p> <br>
+
+<p>Danail Todorov - DKTodorov20@codingburgas.bg👨🏻‍💻‍</p>  <br>
+
+<p>Zafir Stoyanov - ZPStoyanov20@codingburgas.bg👨🏻‍💻</p>  <br>
+
+<p>Danislav Todorov - DATodorov19@codingburgas.bg👨🏻‍💻</p> <br>
+
+<p>Ivailo Dandarinov - IZDandarinov21@codingburgas.bg👨🏻‍💻</p> <br>
+
+<p>Miroslav Chobanov - MSChobanov21@codingburgas.bg👨🏻‍💻</p> <br>
+
+<p>Todor Atanasov - TYAtanasov21@codingburgas.bg👨🏻‍💻</p> <br>
+
+<br>
