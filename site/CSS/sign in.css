@@ -1,0 +1,102 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #070c0d;
+}
+
+.container {
+    padding: 20px 30px;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    transition: 0.3s 0.5s ease-in;
+}
+
+.container h2 {
+    position: relative;
+    font-size: 40px;
+    font-weight: 800;
+    color: #222;
+    padding: 20px 0;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.container h2::after {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 2px;
+    background-color: #c0c0c0;
+    left: 0;
+    bottom: -10px;
+}
+
+.container form {
+    margin: 30px 0;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 350px;
+    height: 50px;
+    border: 1px solid #c0c0c0;
+    padding: 0 20px;
+    font-size: 18px;
+    border-radius: 25px;
+    transition: 0.3s ease-in;
+    margin: 20px 7px;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+    border: 3px solid #8400ff;
+    color: #8400ff;
+}
+
+.container form #user {
+    margin-bottom: 10px;
+}
+
+.container form button {
+    position: relative;
+    width: 100%;
+    padding: 10px 0;
+    border: none;
+    background-color: #8400ff;
+    border-radius: 25px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+.container form button:active {
+    transform: scale(0.98);
+}
+
+.container form button .fa-send {
+    color: #fff;
+    font-size: 20px;
+}
+
+.container form button #btn {
+    background-color: transparent;
+    border: none;
+    margin-left: 5px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.logo {
+    text-align: center;
+    margin: 15px;
+}

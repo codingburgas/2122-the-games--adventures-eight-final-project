@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+
+}
+
+.logo {
+    text-align: center;
+    margin: 15px;
+    width: 125px;
+}
+
+section {
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    background: #070c0d;
+    overflow: hidden;
+}
+
+.wrap {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.wrap .container {
+    position: relative;
+    width: 365px;
+    color: #fff;
+    background: #222;
+    margin: 40px 10px;
+    padding: 30px 20px;
+    border-radius: 3px;
+    transition: 0.3s ease;
+}
+
+.wrap .container .profile {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -10%;
+    width: 100%;
+    display: block;
+}
+
+.wrap .container .profile .Imgbox {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    border: 8px solid #070c0d;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.wrap .container .profile .Imgbox img {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    border-radius: 50%;
+    transition: 0.3s ease;
+    object-fit: cover;
+}
+
+.wrap .container .profile h2 {
+    padding: 5px;
+    text-transform: capitalize;
+    color: #fff;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.wrap .container p {
+    margin-top: 50px;
+    color: #fff;
+    padding: 0 8px;
+    font-size: 23px;
+    opacity: 0.8;
+
+}
+
+p {
+    text-align: center;
+}
+
+.head {
+    display: inline-block;
+    position: relative;
+    color: #8400ff;
+    font-size: 4vw;
+    padding: 60px;
+    width: 100%;
+    text-align: center;
+    font-weight: 800;
+}
